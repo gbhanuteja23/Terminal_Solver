@@ -1,0 +1,38 @@
+Finally I have completely made my game, *Terminal Solver*. 
+
+
+I will share the link once I have done the final changes and have uploaded it on sharemygame.com .
+
+
+
+Instructions for the Game:-
+
+1. This is a  Word Guessing Game .  
+
+2. There are 3 levels in this game with increasing difficulty. 
+
+3. The user has to choose the level, in which they want to play and enter their choice in integer  like 1 or 2 or 3.
+
+4. After entering the level, based on the level, it will generate a word which won't be displayed but it's hint 
+   will be displayed in the form of jumbled letters.
+
+  eg:-  If *arrest* word is generated, it will show the hint as *hint: raerst*. The user has to unjumble these letters and eneter the correct word
+        to proceed to the Game Winnnig Menu.
+
+5.  The user can enter their guesses as many time as they wish, until they are exhausted. (:
+    But the user, doesn't have to waste his time, he can go to Main Game Menu at any time and can choose a 
+    different level by just entering *Menu* in the Terminal.
+
+
+6.  If the user guessses the correct word, the Winning Screen will be shown. There, he will be shown a visual gift on Terminal which is 
+    made up of ASCII patterns.
+
+7. If the user wants to play the game again after the Winning Screen is displayed, he can go to the main Menu by
+   entering *Menu*. 
+
+
+
+THANKS,
+That's all for the Instructions.
+
+ENJOY THE GAME!!!!
